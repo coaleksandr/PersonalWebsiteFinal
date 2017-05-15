@@ -1,0 +1,52 @@
+html {
+	background-color: blue;
+}
+
+h1 {
+	text-align: center;
+	color: orange;
+	font-family: garamond;
+}
+
+img {
+	float: left;
+	margin: 10px 20px;
+	padding: 15px;
+	width: 80%;
+}
+
+div.container { 
+	width: 900px
+	margin: 0 auto;
+	text-align: center;
+	border-style: solid;
+	background-color: #a1df56;
+}
+
+
+p {
+	font-family: garamond;
+	font-size: 25px;
+	line-height: 50px
+	color: white;
+	background-color: gold;
+}
+
+div.column {
+	float: left;
+	max-width: 40%;
+	text-align: center;
+	border-style: solid;
+	background-color:  #e372b4;
+}
+
+div.image {
+	font-family: arial;
+}
+
+center {
+	color: red;
+	font-family: garamond;
+
+}
+
